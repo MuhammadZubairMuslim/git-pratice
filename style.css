@@ -1,0 +1,13 @@
+h1{
+    background-color: azure;
+    color: blueviolet;
+    font-weight: bold;
+    font-style: italic;
+}
+h2{
+    background-color: aqua;
+    color: brown;
+    font-style: italic;
+    text-align: center;
+    font-size: 50px;
+}
